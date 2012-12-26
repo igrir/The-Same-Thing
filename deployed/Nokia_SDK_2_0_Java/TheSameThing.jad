@@ -1,0 +1,9 @@
+MIDlet-1: GameMidlet,,com.cengek.thesamething.main.GameMidlet
+MIDlet-Icon: /icon.png
+MIDlet-Jar-Size: 498523
+MIDlet-Jar-URL: TheSameThing.jar
+MIDlet-Name: The Same Thing
+MIDlet-Vendor: Cengek
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.1

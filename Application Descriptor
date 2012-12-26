@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: Cengek
+MIDlet-Jar-URL: TheSameThing.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: GameMidlet,,com.cengek.thesamething.main.GameMidlet
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Name: The Same Thing

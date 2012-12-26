@@ -1,0 +1,1 @@
+com.cengek.thesamething.main.GameMidlet
